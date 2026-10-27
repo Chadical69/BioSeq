@@ -304,6 +304,6 @@ with tabs[4]:
         - The default start-codon count reports ATG triplets in the selected frame; stop codons are TAA, TAG, and TGA.
         - Results are educational sequence analysis and are not medical or diagnostic interpretations.
         """)
-    st.markdown("**Software:**Made with Python · Streamlit · Biopython · Plotly · Pandas")
+    st.markdown("Software:Made with Python · Streamlit · Biopython · Plotly · Pandas")
 st.markdown("---")
 st.markdown("<div class='small-note' style='text-align:center'>BioSeq · DNA Sequence Analysis Toolkit ·</div>", unsafe_allow_html=True)
